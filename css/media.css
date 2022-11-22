@@ -1,0 +1,122 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+
+    .four-text {
+        font-size: 30px;
+
+    }
+}
+
+@media (max-width: 1200px) {
+    .ico {
+        position: absolute;
+        left: 610px;
+        top: -6px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .block-text {
+        width: 890px;
+        height: 663px;
+    }
+
+    .blockk-text {
+        width: 362px;
+        height: 300px;
+    }
+    .four-texttt {
+        font-size: 20px;
+}
+}
+
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 912px) {
+    .block-one p {
+        width: 372px;
+    }
+
+    .two-form {
+        justify-content: space-between;
+    }
+
+    .block-text {
+        width: 686px;
+        height: 1221px;
+    }
+
+    .ico {
+        position: absolute;
+        left: 472px;
+    }
+}
+
+@media (max-width: 876px) {
+
+}
+
+@media (max-width: 820px) {
+    .ico {
+        position: absolute;
+        left: 409px;
+    }
+    .four-textt {
+        font-size: 21px;
+    }
+    .four-text {
+        font-size: 24px;
+    }
+    .block-text {
+        width: 626px;
+        height: 1221px;
+    }
+}
+
+@media (max-width: 768px) {
+    .ico {
+        position: absolute;
+        left: 336px;
+    }
+}
+
+@media (max-width: 660px) {
+    .ico {
+        position: absolute;
+        left: 242px;
+        top: -55px;
+    }
+    .block-text {
+        width: 511px;
+    }
+    .four-text {
+        font-size: 20px;
+    }
+    .four-texttt {
+        font-size: 13px;
+    }
+    .nine-all {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .footer-three input {
+        width: 224px;
+    }
+    .footer-three h2 {
+        width: 269px;
+    }
+}
+
+@media (max-width: 412px) {
+
+}
+
+
+/*1440.1200*/
+/*m0auto  */
+/*ctrl/shift/x*/
